@@ -1,2 +1,3 @@
 # GeeksforGeeks_L5:Smart_Segmentation_Unlocking_Customer_Personas_with_AI
-To identify distinct groups of customers with a mall's dataset. Segmenting customers based on multiple dimensions. 
+This reprository containing the Smart_Segmentation__Unlocking_Customer_Personas_with_AI.ipynb file is the customer segmentation analysis.
+**Submission** section is at the end of the notebook. 
